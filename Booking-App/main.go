@@ -6,6 +6,7 @@ import "fmt" // fmt or format alows print function
 // go programs are organised in packages
 
 func main() {
-	fmt.Print("Hiiii..")
-	fmt.Println("Hello World")
+	// fmt.Print("Hiiii..")
+	fmt.Println("Welcome to our conference booking application")
+	fmt.Println("Get your tickets to attend")
 }
